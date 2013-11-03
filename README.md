@@ -1,4 +1,4 @@
 sp4mssql
 ========
 
-some useful stored procedure for me
+I write these Stored Procedures to be more efficient at work
